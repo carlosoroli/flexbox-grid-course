@@ -1,0 +1,14 @@
+:root{
+    --primary-orange:#FEB259;
+    --primary-dark: #575757;
+    --background: #ECF0F3;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
+}
